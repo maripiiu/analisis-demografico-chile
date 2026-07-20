@@ -28,14 +28,12 @@ Este proyecto analiza tendencias demográficas en Chile, enfocándose en:
 │   └── censo_limpiar_.ipynb          # Limpieza de datos del censo 2024
 │
 │
-├── docs/                              # Documentación adicional
-│   └── index.html
 │
 ├── graficos/                          # Gráficos generados
 │
 |
 │
-└── web/                               # Sitio web del proyecto
+└── docs/                               # Sitio web del proyecto
     ├── index.html
     └── styles.css
 ```
