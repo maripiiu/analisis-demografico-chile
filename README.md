@@ -29,7 +29,7 @@ Este proyecto analiza tendencias demográficas en Chile, enfocándose en:
 │
 │
 │
-├── graficos/                          # Gráficos generados
+├── Gráficos/                          # Gráficos generados
 │
 |
 │
