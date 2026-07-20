@@ -27,34 +27,6 @@ Este proyecto analiza tendencias demográficas en Chile, enfocándose en:
 │   ├── info_IV.ipynb                 # Procesamiento de índice de vulnerabilidad
 │   └── censo_limpiar_.ipynb          # Limpieza de datos del censo 2024
 │
-├── Data/                              # Datos del proyecto
-│   ├── clean data/                   # Datos procesados y limpios
-│   │   ├── censo/
-│   │   │   ├── 2017/                 # Censo 2017
-│   │   │   │   ├── README.md
-│   │   │   │   └── microdato2017.csv
-│   │   │   └── 2024/                 # Censo 2024
-│   │   │       ├── censo_2024_educacion.csv
-│   │   │       ├── censo_2024_fecundidad.csv
-│   │   │       └── censo_2024_poblacion.csv
-│   │   ├── nacimientos/
-│   │   │   └── Serie_nacimientos_1992-2022.parquet
-│   │   └── RSH/
-│   │       └── Tramos_RSH_2019-2025.csv
-│   │
-│   ├── dirty data/                   # Datos crudos sin procesar
-│   │   ├── censo/
-│   │   │   ├── 2017/
-│   │   │   │   ├── README.md
-│   │   │   │   └── csv-personas-censo-2017/
-│   │   │   └── 2024/
-│   │   ├── Datos_nacimientos/
-│   │   │   └── README.md
-│   │   ├── Nacimientos_1992-2022/
-│   │   └── Set_de_Datos_RSH/
-│   │
-│   └── mapas vectoriales/
-│       └── Comunas/
 │
 ├── docs/                              # Documentación adicional
 │   └── index.html
