@@ -1,0 +1,9 @@
+internet
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+jupyter
+scikit-learn
+

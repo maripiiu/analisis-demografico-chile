@@ -1,0 +1,62 @@
+/*
+ * Archivo CSS para los estilos
+ */
+
+body {
+    background-color: #efefef; /* 239 239 239 */
+
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    color: #333; /* Color de texto */
+    line-height: 2;
+}
+
+.container {
+    background-color: #efefef;
+
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    color: #333; /* Color de texto */
+    line-height: 2;
+}
+
+.content_box {
+  /* The element will occupy 75% of the screen's width */
+  width: 75%;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.content_box img {
+    max-width: 100%;
+    height: auto;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #e0e0e0; /* Separador sutil */
+}
+
+header_1 {
+    color: #004080;
+    font-size: 30pt;
+    margin: 0;
+    font-weight: 700;
+}
+
+.subtitle_1 {
+    text-align: left;
+    color: #000000  ;
+    font-size: 13pt;
+}
+
+.subtitle_2 {
+    text-align: left;
+    color: #000000  ;
+    font-size: 12pt;
+}
